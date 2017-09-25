@@ -44,5 +44,5 @@ If any errors occur, then we will reply with a 400-499 error code depending on t
 curl \
 -H 'Accept: application/vnd.packagezen.v1' \
 -H 'X-Org-Token: you_organization_token' \
--F uploaded_file=@single_usps.json \
+-F uploaded_file=@john_smith.json \
 --verbose http://staging.packagezen.com/api/organizations/upload_people
