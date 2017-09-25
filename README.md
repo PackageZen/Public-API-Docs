@@ -1,4 +1,4 @@
-# Public-API-Docs
+# Package Zen Public API Docs
 Public API Documentation for People and Group Data Uploads to Package Zen
 
 ## How to Upload Organization Data to Package Zen:
